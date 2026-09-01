@@ -16,6 +16,19 @@ The primary goal of this repository is to track my problem-solving progress, mas
 | **Total** | **`0`** |
 
 ---
+| LeetCode Problem No. | Name | Python Code | C Code | C++ Code | Java Code |
+|---|---|---|---|---|---|
+| | | | | | |
+| | | | | | |
+| | | | | | |
+
+If you want to modify this layout, let me know if you would like to:
+
+* Add columns for Time & Space Complexity
+* Include a column for the Difficulty Level (Easy, Medium, Hard)
+* Add sample placeholder text inside the rows
+
+
 
 ## 📂 Repository Structure
 
