@@ -18,7 +18,7 @@ The primary goal of this repository is to track my problem-solving progress, mas
 ---
 | LeetCode Problem No. | Name | Python Code | C Code | C++ Code | Java Code |
 |---|---|---|---|---|---|
-|LC001|Two Sum | https://leetcode.com/problems/two-sum/submissions/2126246251/| | | |
+|LC001|Two Sum | [Python3](https://leetcode.com/problems/two-sum/submissions/2126246251/)| | | |
 | | | | | | |
 | | | | | | |
 
